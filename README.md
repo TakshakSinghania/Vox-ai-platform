@@ -12,6 +12,7 @@
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-vox--ai--platform.vercel.app-success?style=flat&logo=vercel)](https://vox-ai-platform.vercel.app)
 ![Next.js 16](https://img.shields.io/badge/Next.js-16.3.6-black?style=flat&logo=next.js)
 ![React 19](https://img.shields.io/badge/React-19.2.8-blue?style=flat&logo=react)
 ![TypeScript 5](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat&logo=typescript)
@@ -27,6 +28,8 @@
 > [!IMPORTANT]
 > **HIGH-PERFORMANCE MULTIMODAL AI WORKSPACE**  
 > **VOX** is an editorial, full-duplex multimodal intelligence platform engineered with Next.js 16 App Router, React 19, and TypeScript. It combines low-latency real-time WebRTC voice conversations powered by CallMissed and LiveKit, streaming conversational AI with Server-Sent Events (SSE) and AICSS pre-token thinking states, and high-fidelity diffusion image synthesis (FLUX 2 Klein 9B & SDXL). Built on an authoritative server-side credential isolation architecture, Vox protects upstream API keys while delivering responsive, sub-400ms human-parity conversational transitions.
+>
+> 🌐 **Live Demo**: [https://vox-ai-platform.vercel.app](https://vox-ai-platform.vercel.app)
 
 ---
 
