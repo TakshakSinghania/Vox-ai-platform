@@ -20,27 +20,9 @@
 
 ---
 
-## 🎬 Product Demo Video
-
-<div align="center">
-
-https://github.com/user-attachments/assets/vox_product_showcase.mp4
-
-<video src="docs/assets/vox_product_showcase.mp4" controls width="100%" poster="docs/assets/vox_architecture.png">
-  <p>Your browser does not support HTML5 video. View the <a href="docs/assets/vox_product_showcase.mp4">direct MP4 asset</a>.</p>
-</video>
-
-</div>
-
-> [!NOTE]
-> **Product Showcase Video Attribution**: The 44-second showcase video above was generated using the programmatic video-generation and automated Chrome headless capture capabilities of the AI development agent during project development.
-
----
-
 ## Table of Contents
 
 - [Overview](#overview)
-- [🎬 Product Demo Video](#-product-demo-video)
 - [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)
 - [Core Capabilities & Features](#core-capabilities--features)
@@ -286,8 +268,7 @@ Security was designed from day one with a strict zero-trust boundary between the
 ```text
 Vox-ai-platform/
 ├── docs/
-│   └── assets/                     # Showcase video & pristine 1080p documentation frames
-│       ├── vox_product_showcase.mp4
+│   └── assets/                     # Pristine 1080p visual documentation frames
 │       ├── vox_voice_agent.png
 │       ├── vox_voice_config.png
 │       ├── vox_chat_completed.png
