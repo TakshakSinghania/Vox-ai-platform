@@ -1,10 +1,16 @@
 # VOX
-
 ## Multimodal AI Platform
 
-<div align="center">
+```text
+██╗   ██╗ ██████╗ ██╗  ██╗
+██║   ██║██╔═══██╗╚██╗██╔╝
+██║   ██║██║   ██║ ╚███╔╝
+╚██╗ ██╔╝██║   ██║ ██╔██╗
+ ╚████╔╝ ╚██████╔╝██╔╝ ██╗
+  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝
+```
 
-![VOX](public/images/vox-logo.png)
+<div align="center">
 
 ![Next.js 16](https://img.shields.io/badge/Next.js-16.3.6-black?style=flat&logo=next.js)
 ![React 19](https://img.shields.io/badge/React-19.2.8-blue?style=flat&logo=react)
@@ -425,4 +431,6 @@ npm run build
 
 This project is open-source and released under the [MIT License](LICENSE).
 
-Designed and engineered by **Takshak Sharma**.
+Designed and engineered by **Takshak Singhania**.
+
+The Vox logo was created using the AI image-generation tool within the AI development agent used to build this project.
