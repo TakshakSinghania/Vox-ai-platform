@@ -1,6 +1,10 @@
-# VOX — Multimodal AI Platform
+# VOX
+
+## Multimodal AI Platform
 
 <div align="center">
+
+![VOX](public/images/vox-logo.png)
 
 ![Next.js 16](https://img.shields.io/badge/Next.js-16.3.6-black?style=flat&logo=next.js)
 ![React 19](https://img.shields.io/badge/React-19.2.8-blue?style=flat&logo=react)
